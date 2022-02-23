@@ -1,4 +1,4 @@
-# Schnellreise Script
+# Schnellreise Script (ESX)
 
 -- This is a simple teleport script for Fivem (ESX)
 
